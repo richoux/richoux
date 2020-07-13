@@ -2,7 +2,7 @@
 
 ![Pixel ID](/images/pixel_smile.png)
 
-I am a French Game AI researcher working in Japan. Here is [my web page](www.richoux.fr) if you are curious about my research.
+I am a French Game AI researcher working in Japan. Here is [my web page](https://www.richoux.fr) if you are curious about my research.
 
 You can find both my professional and personnal projects on this GitHub. Almost all my projects are under the GNU GPL v3 licence, so if you want to use my code in your project that is not compliant with this licence, please contact me first.
 
