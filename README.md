@@ -1,6 +1,6 @@
 ### Hi, I'm Flo Richoux
 
-![Pixel ID](/images/pixel_smile.png)
+![Pixel ID](https://github.com/richoux/richoux/images/pixel_smile.png)
 
 I am a French Game AI researcher working in Japan. Here is [my web page](https://www.richoux.fr) if you are curious about my research.
 
