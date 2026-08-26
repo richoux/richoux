@@ -2,9 +2,9 @@
 
 ![Pixel ID](https://www.richoux.fr/images/pixel_smile.png)
 
-I am a French Game AI researcher working in Japan. Here is [my web page](https://www.richoux.fr) if you are curious about my research.
+I am a French AI researcher working in Japan. AI is a wide research area; I don't work in ML/DL/LLM but in combinatorial optimization. Here is [my web page](https://www.richoux.fr) if you are curious about my research.
 
-You can find both my professional and personnal projects on this GitHub. Almost all my projects are under the GNU GPL v3 licence, so if you want to use my code in your project that is not compliant with this licence, please contact me first.
+You can find both my professional and personal projects on this GitHub. Almost all my projects are under the GNU GPL v3 license, so if you want to use my code in your project that is not compliant with this license, please contact me first.
 
 Cheers!
 
