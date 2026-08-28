@@ -1,6 +1,6 @@
 ### Hi, I'm Flo Richoux
 
-![Pixel ID](https://www.richoux.fr/images/pixel_smile.png)
+![Pixel ID](https://richoux.fr/images/pixel_smile.png)
 
 I am a French AI researcher working in Japan. AI is a wide research area; I don't work in ML/DL/LLM but in combinatorial optimization. Here is [my web page](https://www.richoux.fr) if you are curious about my research.
 
